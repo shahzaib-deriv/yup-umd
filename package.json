@@ -1,0 +1,15 @@
+{
+  "name": "yup-umd",
+  "version": "0.0.1",
+  "description": "UMD module of the yup.",
+  "module": "dist/yup-umd.js",
+  "keywords": [
+    "yup"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "yup": "latest"
+  }
+}
